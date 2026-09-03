@@ -1,6 +1,6 @@
 // EduShield frontend ↔ FastAPI backend integration
 
-const EDU_API_BASE_URL = window.API_BASE_URL || 'http://127.0.0.1:8000';
+const EDU_API_BASE_URL = window.API_BASE_URL || "https://disaster-preparedness-jsz9.onrender.com";
 
 let activeDisaster = null;
 let userScores = {};
