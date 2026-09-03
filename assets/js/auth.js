@@ -1,6 +1,6 @@
 // assets/js/auth.js
 
-const API_BASE_URL = 'http://127.0.0.1:8000';
+const API_BASE_URL = 'https://disaster-preparedness-jsz9.onrender.com';
 
 let isRegister = false;
 let currentUser = null;
